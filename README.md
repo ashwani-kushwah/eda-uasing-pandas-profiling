@@ -19,7 +19,7 @@ This Python code utilizes Pandas and Pandas Profiling libraries to explore and a
 1. Clone the repository to your local machine:
    
    ```bash
-   git clone https://github.com/ashwani-kushwah/eda-uasing-pandas-profiling.git
+   git clone https://github.com/ashwani-kushwah/eda-using-pandas-profiling.git
    ```
 2. Install the required Python packages using pip:
    
