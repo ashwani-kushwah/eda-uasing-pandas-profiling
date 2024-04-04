@@ -7,5 +7,5 @@ df = pd.read_csv('titanic.csv') #chnage 'titanic.csv' to your file name or locat
 print(df)
 
 # generating the report 
-report = ProfileReport(df, minimal=True)
-report.to_file(output_file="titanic_report.html")
+report = ProfileReport(df)
+report.to_file(output_file="titanic_report2.html")
